@@ -1,0 +1,37 @@
+{
+    "Friends": [
+      {
+        "id": 1,
+        "name": "kalid Nuredin",
+        "imageUrl": "../image/dude.jpg",
+        "money": [
+          {
+            "personName": "kidus paulos",
+            "owed": 4
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Kidus Paulos",
+        "imageUrl": "../image/kidus.jpg",
+        "money": [
+          {
+            "personName": "kalid Nuredin",
+            "owed": -4
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Euel Solomon",
+        "imageUrl": "../image/roger.png",
+        "money": [
+          {
+            "personName": "kidus paulos",
+            "owed": -5
+          }
+        ]
+      }
+    ]
+  }
